@@ -1,4 +1,4 @@
-# demo-project-py
+﻿# demo-project-py
 Esta es la descripción corta del repositorio para proyectos en python
 
 En esta demostración haré lo siguiente:
@@ -9,6 +9,7 @@ En esta demostración haré lo siguiente:
   - sub item 2
 * Editar el `readme.md`
 * Asustar  a mis estudiantes
+
 
 ## Este es es un subtitulo 
 
@@ -21,3 +22,9 @@ En esta demostración haré lo siguiente:
 Haga click [aquí](www.google.com) para ir a google
 
 bla bla bla...
+
+## Este es otro subtítulo
+
+## Ahora es el momento 
+
+* Estas son unas nuevas líneas agragadas desde el master
